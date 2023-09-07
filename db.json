@@ -1,7 +1,7 @@
 {
   "applicationType": "OCOO",
   "companyNameEng": "ABC Corporation",
-  "companyNameRus": "ООО 'АБС Корпорация'",
+  "companyNameRus": "ООО АБС Корпорация",
   "registrationDate": "2023-01-15",
   "gkedCode": "12345",
   "mainActivity": "Software Development",
@@ -10,7 +10,7 @@
   "ugnsName": "Tax Office XYZ",
   "bankName": "Bank of Financials",
   "bankBID": "BANK123",
-  "bankLocation" : "Ahunbaev str. 34"
+  "bankLocation" : "Ahunbaev str. 34",
   "paymentNumber": "PAY789",
   "businessDescription": "We provide cutting-edge software solutions.",
   "marketDescription": "Targeting the global IT market.",
@@ -26,7 +26,7 @@
   "accountantFullName": "Jane Smith",
   "accountantNumber": "+1 (555) 876-5432",
   "accountantEmail": "jane.smith@abccorp.com",
-  "trustedPersonName" : "Dastan Sharshekeev"
+  "trustedPersonName" : "Dastan Sharshekeev",
   "founders": [
     {
       "founderFullName": "Alice Johnson",
