@@ -1,0 +1,68 @@
+{
+  "applicationType": "OCOO",
+  "companyNameEng": "ABC Corporation",
+  "companyNameRus": "ООО 'АБС Корпорация'",
+  "registrationDate": "2023-01-15",
+  "gkedCode": "12345",
+  "mainActivity": "Software Development",
+  "otherActivity": "Consulting Services",
+  "ugnsCode": "67890",
+  "ugnsName": "Tax Office XYZ",
+  "bankName": "Bank of Financials",
+  "bankBID": "BANK123",
+  "bankLocation" : "Ahunbaev str. 34"
+  "paymentNumber": "PAY789",
+  "businessDescription": "We provide cutting-edge software solutions.",
+  "marketDescription": "Targeting the global IT market.",
+  "personnelDescription": "Dedicated and skilled professionals.",
+  "implementationPlan": "Expand into new markets in the next year.",
+  "companyEmail": "info@abccorp.com",
+  "companyNumber": "+1 (555) 123-4567",
+  "companyWebsite": "https://www.abccorp.com",
+  "directorFullName": "John Doe",
+  "directorFullNameOfPosition": "CEO",
+  "directorNumber": "+1 (555) 987-6543",
+  "directorEmail": "john.doe@abccorp.com",
+  "accountantFullName": "Jane Smith",
+  "accountantNumber": "+1 (555) 876-5432",
+  "accountantEmail": "jane.smith@abccorp.com",
+  "trustedPersonName" : "Dastan Sharshekeev"
+  "founders": [
+    {
+      "founderFullName": "Alice Johnson",
+      "founderNumber": "+1 (555) 111-2222",
+      "founderCitizenship": "USA",
+      "percentage": "30%"
+    },
+    {
+      "founderFullName": "Bob Anderson",
+      "founderNumber": "+1 (555) 333-4444",
+      "founderCitizenship": "Canada",
+      "percentage": "70%"
+    }
+  ],
+  "financialRevenueCreateDtos": [
+    {
+      "year": 2022,
+      "revenue": 5000000,
+      "expertRevenue": 1500000,
+      "wageFund": 2000000,
+      "rentOfPremisesAndUtilities": 500000,
+      "otherExpenses": 300000,
+      "investment": 1000000,
+      "borrowedFunds": 500000,
+      "numberofEmployees": 50
+    },
+    {
+      "year": 2021,
+      "revenue": 4500000,
+      "expertRevenue": 1200000,
+      "wageFund": 1800000,
+      "rentOfPremisesAndUtilities": 450000,
+      "otherExpenses": 250000,
+      "investment": 900000,
+      "borrowedFunds": 400000,
+      "numberofEmployees": 45
+    }
+  ]
+}
